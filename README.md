@@ -1,6 +1,6 @@
 # rockchip_docs
 
-Rockchip document collection
+Rockchip document collection ( Datasheet & TRM ）
 
 # Note
 
